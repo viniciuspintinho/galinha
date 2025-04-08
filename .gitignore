@@ -1,0 +1,10 @@
+#arquivos temporarios
+*.temporarios
+
+#arquivos de compilaçao
+*exe
+
+#aquivos de dependencias
+ node_modules/
+
+ 
