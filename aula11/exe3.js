@@ -9,6 +9,7 @@ let qntdg = 0
  qntdg = qntdg++
  if (nmdg==0){
     console.log()
- }
  break
+}
+
 }

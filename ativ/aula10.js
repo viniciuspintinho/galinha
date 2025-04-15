@@ -46,10 +46,3 @@ if(preçoAL < caulculo){
     console.log(`abasteça com gasolina`)
 }
 
-const prompt = require('prompt-sync')()
-let anoatual= Number(prompt('ano atual: '))
-let anonascimento = Number(prompt('ano de nascimento: '))
-
-switch (true){
-    
-}

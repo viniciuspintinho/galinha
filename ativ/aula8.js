@@ -67,3 +67,5 @@ console.log('Triangulo Equilatero ?' , eq, 'Triangulo Escaleno' , es)
         else{
             console.log(`A letra ${letra} é uma consoante`)
         }
+
+        
