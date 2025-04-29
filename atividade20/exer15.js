@@ -1,0 +1,6 @@
+let divida = Number(prompt("digite o valor da sua divida"))
+console.log(`parcela de 1 ${divida}e tera q pagar ${(divida / 1). toFixed(2)} cada parcela`)
+console.log(`parcela de 3 ${divida +(divida *0.10)} e tera de pagar ${divida * 0.10 / 3}`)
+console.log(`parcela de 6 ${divida + (divida* 0.15)} e tera de pagar ${divida * 0.15 / 6}`)
+console.log(`parcela de 9 ${divida + (divida * 0.20)} e tera de pagar ${divida * 0.20 / 9}`)
+console.log(`parcela de 12 ${divida + (divida * 0.25)} e tera de pagar ${divida * 0.25 / 12}`)
